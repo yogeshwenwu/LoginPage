@@ -5,7 +5,7 @@ import { FaUser } from "react-icons/fa";
 import { IoMdEye } from "react-icons/io";
 
 const dicts = {
-    'yogeshmv744@gmail.com': '12345'
+    'yogeshmv74@gmail.com': '12345'
 };
 
 const LoginPage = () => {
