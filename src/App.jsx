@@ -5,6 +5,8 @@ import {BrowserRouter,Routes, Route,useLocation} from 'react-router-dom'
 import LoginPage from './components/LoginPage/LoginPage'
 import SignUp from './components/SignUp/SignUp'
 
+
+
 const App = () => {
   return (
     <BrowserRouter>
